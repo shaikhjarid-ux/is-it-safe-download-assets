@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+<rect width="1200" height="630" fill="#F5EDF7"/>
+<circle cx="1050" cy="120" r="160" fill="#EEE5F5"/>
+<circle cx="90" cy="580" r="110" fill="#F2D4E2" opacity=".55"/>
+<rect x="36" y="36" width="1128" height="558" rx="36" fill="#FFFBFE" stroke="#D8B8F1" stroke-width="4"/>
+<path d="M80 78 H1120" stroke="#F2D4E2" stroke-width="3" stroke-dasharray="5 15"/>
+<circle cx="860" cy="322" r="208" fill="#EEE5F5" stroke="#D8B8F1" stroke-width="5"/>
+<g stroke="#806493" stroke-width="11" stroke-linecap="round" stroke-linejoin="round"><g transform="translate(602,64) scale(0.99)"><path d="M119 228 L132 117 Q136 82 165 100 L221 141 Q256 124 291 141 L347 100 Q376 82 380 117 L393 228 Q400 342 256 365 Q112 342 119 228Z" fill="#FFFBFE"/><path d="M153 153 L163 119 Q166 108 178 118 L210 143 Q184 148 153 153Z" fill="#F2D4E2" stroke="none"/><path d="M359 153 L349 119 Q346 108 334 118 L302 143 Q328 148 359 153Z" fill="#F2D4E2" stroke="none"/><ellipse cx="205" cy="239" rx="10" ry="17" fill="#806493" stroke="none"/><ellipse cx="307" cy="239" rx="10" ry="17" fill="#806493" stroke="none"/><path d="M246 264 Q256 273 266 264" fill="none"/><path d="M230 278 Q256 301 282 278" fill="none"/><ellipse cx="165" cy="275" rx="20" ry="9" fill="#F2D4E2" stroke="none" opacity=".9"/><ellipse cx="347" cy="275" rx="20" ry="9" fill="#F2D4E2" stroke="none" opacity=".9"/><path d="M139 269 L98 259 M141 291 L103 297 M373 269 L414 259 M371 291 L409 297" fill="none" stroke-width="7"/><g transform="translate(337 315) scale(.55)"><path d="M0 0 L58 18 L54 80 Q48 119 0 143 Q-48 119 -54 80 L-58 18Z" fill="#D8B8F1" stroke="#FFFBFE" stroke-width="8"/><path d="M-26 68 L-5 90 L32 47" fill="none" stroke="#FFFBFE" stroke-width="13"/></g></g></g>
+<text x="104" y="235" font-family="Nunito, DejaVu Sans, sans-serif" font-size="61" font-weight="700" fill="#493F52">Is It Safe to</text>
+<text x="104" y="312" font-family="Nunito, DejaVu Sans, sans-serif" font-size="61" font-weight="700" fill="#493F52">Download?</text>
+<text x="108" y="371" font-family="Nunito, DejaVu Sans, sans-serif" font-size="25" font-weight="500" fill="#806493">A practical guide to safer downloads</text>
+<rect x="105" y="421" width="405" height="50" rx="25" fill="#EEE5F5"/>
+<text x="307" y="454" text-anchor="middle" font-family="Nunito, DejaVu Sans, sans-serif" font-size="17" font-weight="600" fill="#493F52">BEGINNER  •  INTERMEDIATE  •  ADVANCED</text>
+<text x="105" y="535" font-family="Nunito, DejaVu Sans, sans-serif" font-size="17" font-weight="500" fill="#806493">Defensive download-safety reference</text>
+<path d="M1088 110 l11 23 25 3 -19 16 6 25 -23 -13 -22 13 6 -25 -20 -16 26 -3Z" fill="#F2D4E2"/>
+<circle cx="1040" cy="495" r="9" fill="#D5E7F2"/><circle cx="1080" cy="465" r="5" fill="#D8B8F1"/>
+</svg>

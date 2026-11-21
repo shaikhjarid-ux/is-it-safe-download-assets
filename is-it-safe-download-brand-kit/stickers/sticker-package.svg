@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+    <title>Is It Safe to Download? – cat mascot and visual identity</title>
+    
+    <g stroke="#806493" stroke-width="11" stroke-linecap="round" stroke-linejoin="round"><circle cx="256" cy="256" r="204" fill="#EEE5F5" opacity=".78" stroke="#D8B8F1" stroke-width="5"/>
+<path d="M120 196 L256 117 L392 196 L256 273Z" fill="#D8B8F1"/>
+<path d="M120 196 L256 273 L256 403 L120 326Z" fill="#FFFBFE"/>
+<path d="M392 196 L256 273 L256 403 L392 326Z" fill="#D5E7F2"/>
+<path d="M256 117 L256 273 M188 156 L324 235" fill="none" stroke="#FFFBFE" stroke-width="13"/>
+</g>
+    </svg>

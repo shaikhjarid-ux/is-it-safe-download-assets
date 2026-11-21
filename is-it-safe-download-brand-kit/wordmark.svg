@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="430" viewBox="0 0 1500 430">
+<rect width="1500" height="430" rx="44" fill="#F5EDF7"/>
+<circle cx="218" cy="214" r="170" fill="#EEE5F5" stroke="#D8B8F1" stroke-width="5"/>
+<g stroke="#806493" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"><g transform="translate(-38,-42) scale(0.95)"><path d="M119 228 L132 117 Q136 82 165 100 L221 141 Q256 124 291 141 L347 100 Q376 82 380 117 L393 228 Q400 342 256 365 Q112 342 119 228Z" fill="#FFFBFE"/><path d="M153 153 L163 119 Q166 108 178 118 L210 143 Q184 148 153 153Z" fill="#F2D4E2" stroke="none"/><path d="M359 153 L349 119 Q346 108 334 118 L302 143 Q328 148 359 153Z" fill="#F2D4E2" stroke="none"/><ellipse cx="205" cy="239" rx="10" ry="17" fill="#806493" stroke="none"/><ellipse cx="307" cy="239" rx="10" ry="17" fill="#806493" stroke="none"/><path d="M246 264 Q256 273 266 264" fill="none"/><path d="M230 278 Q256 301 282 278" fill="none"/><ellipse cx="165" cy="275" rx="20" ry="9" fill="#F2D4E2" stroke="none" opacity=".9"/><ellipse cx="347" cy="275" rx="20" ry="9" fill="#F2D4E2" stroke="none" opacity=".9"/><path d="M139 269 L98 259 M141 291 L103 297 M373 269 L414 259 M371 291 L409 297" fill="none" stroke-width="7"/><g transform="translate(337 315) scale(.55)"><path d="M0 0 L58 18 L54 80 Q48 119 0 143 Q-48 119 -54 80 L-58 18Z" fill="#D8B8F1" stroke="#FFFBFE" stroke-width="8"/><path d="M-26 68 L-5 90 L32 47" fill="none" stroke="#FFFBFE" stroke-width="13"/></g></g></g>
+<text x="450" y="190" font-family="Nunito, DejaVu Sans, sans-serif" font-size="76" font-weight="700" fill="#493F52">Is It Safe to</text>
+<text x="450" y="278" font-family="Nunito, DejaVu Sans, sans-serif" font-size="76" font-weight="700" fill="#493F52">Download?</text>
+<text x="455" y="344" font-family="Nunito, DejaVu Sans, sans-serif" font-size="31" font-weight="500" fill="#806493">A practical guide to safer downloads</text>
+<path d="M1270 95 l12 27 29 3 -22 18 7 28 -26 -15 -26 15 7 -28 -22 -18 29 -3Z" fill="#F2D4E2" stroke="none"/>
+<circle cx="1370" cy="330" r="10" fill="#D5E7F2"/>
+</svg>
